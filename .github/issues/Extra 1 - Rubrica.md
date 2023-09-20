@@ -1,6 +1,15 @@
 > Issue:
 >
-> - Você só deve fechar as issues que foram 100% concluidas.
-> - Se não concluiu 100% a issues, você pode fazer um comentário que ireimos analisar!
+> - Você só deve fechar as issues que foram 100% concluídas.
+> - Se não concluiu 100% a issues, você pode fazer um comentário que iremos analisar!
 
-Ler dois sensores ultrassônico em paralelo (exibe dois pontos no gráfico)
+Não seria legar exibir no OLED um gráfico que mostra a distância do objeto? Podemos fazer gráficos de várias formas diferentes, aqui vai algumas ideias:
+
+- Um gráfico no tempo da distância, use a função do OLED que exibe 
+- Um gráfico que é uma barra e ela varia conforme a distância:
+
+```
+-------------->
+```
+
+- Use a criatividade...

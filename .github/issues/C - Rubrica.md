@@ -1,7 +1,7 @@
 > Issue:
 >
-> - Você só deve fechar as issues que foram 100% concluidas.
-> - Se não concluiu 100% a issues, você pode fazer um comentário que ireimos analisar!
+> - Você só deve fechar as issues que foram 100% concluídas.
+> - Se não concluiu 100% a issues, você pode fazer um comentário que iremos analisar!
 
 A entrega do Lab deve ser um sistema que possui um HC-SR04 e faz periodicamente a leitura da distância e exibe a informacão no OLED, vocês devem estruturar a solução utilizando os recursos do RTOS.
 
